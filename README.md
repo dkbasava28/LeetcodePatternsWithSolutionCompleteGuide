@@ -1,2 +1,3 @@
 # LeetcodePatternsWithSolutionCompleteGuide
 # LeetcodePatternsWithSolutionCompleteGuideForBeginners
+# LeetcodePatternsWithSolutionCompleteGuideForBeginners_01
